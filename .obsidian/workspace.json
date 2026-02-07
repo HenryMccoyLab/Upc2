@@ -1,0 +1,234 @@
+{
+  "main": {
+    "id": "ae516269a94d7b3a",
+    "type": "split",
+    "children": [
+      {
+        "id": "d067573ba8333439",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5492c969bd1e3c38",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nueva pestaña"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "77488bfc89ef0a85",
+    "type": "split",
+    "children": [
+      {
+        "id": "334d086e51cc7cfe",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "298049475935bfce",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "yopilotiwo.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "yopilotiwo"
+            }
+          },
+          {
+            "id": "dc78a27ff97b33d8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "67f51008b56b705c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "57a0c0ff5818edee",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 522.5043449401855
+  },
+  "right": {
+    "id": "f6c79b2098af3d88",
+    "type": "split",
+    "children": [
+      {
+        "id": "8686ed65ae232caa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fa1cf033948e2469",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Plantilla Finanzas Mensual.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes de Plantilla Finanzas Mensual"
+            }
+          },
+          {
+            "id": "a2e9b2c8bcbfd7f2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "25fad7199d10e0f2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "32ac9278f651d69d",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "78c43a6962887079",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Crear nueva base": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "57a0c0ff5818edee",
+  "lastOpenFiles": [
+    "tutorial/README.md",
+    "create a link.md",
+    "Plantilla Finanzas Mensual.md",
+    "pull.md",
+    "tutorial",
+    "Sin título.md",
+    "Untitled.md",
+    "Finanzas/2026/02/Balance Mensual.md",
+    "Finanzas/2026/02/registros.md",
+    "Finanzas/2026/03/registros.md",
+    "Finanzas/2026/03/Balance Mensual.md",
+    "Finanzas/2026/03",
+    "Plantillas/Plantilla Balance.md",
+    "Finanzas/2026/02/registros1.md",
+    "Finanzas/2026/02/Balance Mensual1.md",
+    "Plantillas/Plantilla Registros.md",
+    "Plantillas",
+    "Finanzas/2026/02",
+    "Finanzas/2026/02.md",
+    "Finanzas/2026/02-febrero/Registros febrero.md",
+    "Finanzas/2026/02",
+    "Finanzas/2026/02-Febrero/Registros 02.md",
+    "Sin nombre/Finanzas1/Mi Billetera.md",
+    "Templates/Plantilla de Mes.md",
+    "Templates",
+    "Sin nombre/Finanzas1/Balance Inicial.md",
+    "Finanzas/2026/02-Febrero/Registros Febrero - copia.md",
+    "Finanzas/2026/02-Febrero/Nuevo Text Document.txt",
+    "Finanzas/2026/02",
+    "Finanzas/2026",
+    "Finanzas",
+    "Mi billetera.md",
+    "Welcome.md",
+    "yopilotiwo.md",
+    "Assets/Pasted image 20260206115403.png"
+  ]
+}
