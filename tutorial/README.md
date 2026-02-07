@@ -1,2 +1,0 @@
-# tutorial Asdad
-qwdqdqwdwq
