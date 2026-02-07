@@ -161,10 +161,12 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "871747e73b532163",
+  "active": "ab7f924039662806",
   "lastOpenFiles": [
     "README.md",
     "yopilotiwo.md",
